@@ -1,0 +1,1 @@
+for making your own admin panal go to register and add admin befor " "<option>
